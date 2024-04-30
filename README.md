@@ -6,4 +6,4 @@
 🗨️    Entusiastic of the tech world and likes to game in spare time.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkpng)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkpng&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
