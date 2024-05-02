@@ -1,9 +1,9 @@
 ## Hi I'm Miguel 👋
 
-💻    Front-end Software Engineer, studying Back-end to become Full Stack.<br>
-👨‍🎓    Studying currently at CodeCademy as a self thougth and also sharpening skills at freeCodeCamp and LeetCode.<br>
-➡️    After becoming a Full Stack Software Engineer, start my second graduation in Machine Learning/AI Engineer.<br>
-🗨️    Entusiastic of the tech world and likes to game in spare time.<br><br>
+💻 Front-end Software Engineer, studying Back-end to become Full Stack.<br>
+👨‍🎓 Currently studying at CodeCademy as a self-taught and also sharpening skills at freeCodeCamp and LeetCode.<br>
+➡️ After becoming a Full Stack Software Engineer, I plan to start my second graduation in Machine Learning/AI Engineering.<br>
+🗨️ Enthusiastic about the tech world and enjoys gaming in spare time.<br><br>
 
 ## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
