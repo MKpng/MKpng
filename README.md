@@ -1,4 +1,4 @@
-## Hi I'm Miguel 👋
+# 👽 MKpng
 
 💻 Front-end Software Engineer, studying Back-end to become Full Stack.<br>
 👨‍🎓 Currently studying at CodeCademy as a self-taught and also sharpening skills at freeCodeCamp and LeetCode.<br>
